@@ -5,7 +5,7 @@
 ## Features:
 ##  Live feed from the oSC
 ##  Enables irc users to ask questions easily
-##  Useful infos about oSC
+##  Useful info about oSC
 
 import json
 import simplejson
